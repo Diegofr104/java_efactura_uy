@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: org.cryptacular:cryptacular:1.0:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.cryptacular/cryptacular/jars/cryptacular-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.cryptacular/cryptacular/srcs/cryptacular-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

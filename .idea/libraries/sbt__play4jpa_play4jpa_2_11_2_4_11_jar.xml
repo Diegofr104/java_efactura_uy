@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: play4jpa:play4jpa_2.11:2.4.11:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/local/play4jpa/play4jpa_2.11/2.4.11/jars/play4jpa_2.11.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/local/play4jpa/play4jpa_2.11/2.4.11/srcs/play4jpa_2.11-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

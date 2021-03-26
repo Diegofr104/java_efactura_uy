@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: org.apache.cxf:cxf-core:3.1.7:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.apache.cxf/cxf-core/bundles/cxf-core-3.1.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.apache.cxf/cxf-core/srcs/cxf-core-3.1.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

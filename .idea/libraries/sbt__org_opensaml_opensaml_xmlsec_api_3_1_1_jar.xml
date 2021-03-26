@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: org.opensaml:opensaml-xmlsec-api:3.1.1:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.opensaml/opensaml-xmlsec-api/jars/opensaml-xmlsec-api-3.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.opensaml/opensaml-xmlsec-api/srcs/opensaml-xmlsec-api-3.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
