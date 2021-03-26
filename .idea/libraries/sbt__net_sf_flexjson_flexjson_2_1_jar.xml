@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: net.sf.flexjson:flexjson:2.1:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/net.sf.flexjson/flexjson/jars/flexjson-2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/net.sf.flexjson/flexjson/srcs/flexjson-2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: org.opensaml:opensaml-core:3.1.1:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.opensaml/opensaml-core/jars/opensaml-core-3.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.opensaml/opensaml-core/srcs/opensaml-core-3.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

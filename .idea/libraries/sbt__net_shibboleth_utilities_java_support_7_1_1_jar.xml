@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: net.shibboleth.utilities:java-support:7.1.1:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/net.shibboleth.utilities/java-support/jars/java-support-7.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/net.shibboleth.utilities/java-support/srcs/java-support-7.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
